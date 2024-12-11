@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741332802700",
+    "project_id": "hawkeye-fcc33",
+    "storage_bucket": "hawkeye-fcc33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741332802700:android:a3c591bbfece208209efa9",
+        "android_client_info": {
+          "package_name": "main.hawkeyeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBngx_OjD2AJ3ATkEts-PE3qmricJDi-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

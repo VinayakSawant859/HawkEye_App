@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HawkEye App</string>
+    <string name="hello">Hey there,</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="welcome_back">Welcome Back!</string>
+</resources>
